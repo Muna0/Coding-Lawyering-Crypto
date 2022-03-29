@@ -1,2 +1,2 @@
-# hello-codingworld
-Learning to code.
+# Coding + Lawyering
+Crypto is King
